@@ -44,6 +44,276 @@
     },
     "planets": [
         {
+            "id": 14,
+            "name": "Icarus",
+            "diameter": 1,
+            "mass": 0.330,
+            "gravity": 3.7,
+            "density": 5427,
+            "rotationPeriod": 1407.6,
+            "lengthOfDay": 4222.6,
+            "distanceFromParent": 161266504.6,
+            "orbitalPeriod": 409,
+            "orbitalVelocity": 47.4,
+            "orbitalInclination": 22.8,
+            "axialTilt": 0.01,
+            "orbitPositionOffset": 31.43,
+            "meanTemperature": 167,
+            "surfaceTemps": {
+                "min": 100,
+                "mean": 340,
+                "max": 700
+            },
+            "rings": false,
+            "satellites": [],
+            "_3d": {
+                "textures": {
+                    "base": "/src/assets/textures/mercury.jpg",
+                    "topo": "/src/assets/textures/mercury_topo.jpg"
+                }
+            }
+        },
+        {
+            "id": 15,
+            "name": "Geographos",
+            "diameter": 2.56,
+            "mass": 0.330,
+            "gravity": 3.7,
+            "density": 5427,
+            "rotationPeriod": 1407.6,
+            "lengthOfDay": 4222.6,
+            "distanceFromParent": 186398946.9,
+            "orbitalPeriod": 508,
+            "orbitalVelocity": 47.4,
+            "orbitalInclination": 13.34,
+            "axialTilt": 0.01,
+            "orbitPositionOffset": 277.01,
+            "meanTemperature": 167,
+            "surfaceTemps": {
+                "min": 100,
+                "mean": 340,
+                "max": 700
+            },
+            "rings": false,
+            "satellites": [],
+            "_3d": {
+                "textures": {
+                    "base": "/src/assets/textures/mercury.jpg",
+                    "topo": "/src/assets/textures/mercury_topo.jpg"
+                }
+            }
+        },
+        {
+            "id": 16,
+            "name": "Apollo",
+            "diameter": 1.5,
+            "mass": 0.330,
+            "gravity": 3.7,
+            "density": 5427,
+            "rotationPeriod": 1407.6,
+            "lengthOfDay": 4222.6,
+            "distanceFromParent": 220058467.8,
+            "orbitalPeriod": 651,
+            "orbitalVelocity": 47.4,
+            "orbitalInclination": 6.35,
+            "axialTilt": 0.01,
+            "orbitPositionOffset": 286.03,
+            "meanTemperature": 167,
+            "surfaceTemps": {
+                "min": 100,
+                "mean": 340,
+                "max": 700
+            },
+            "rings": false,
+            "satellites": [],
+            "_3d": {
+                "textures": {
+                    "base": "/src/assets/textures/mercury.jpg",
+                    "topo": "/src/assets/textures/mercury_topo.jpg"
+                }
+            }
+        },
+        {
+            "id": 17,
+            "name": "Midas",
+            "diameter": 3.4,
+            "mass": 0.330,
+            "gravity": 3.7,
+            "density": 5427,
+            "rotationPeriod": 1407.6,
+            "lengthOfDay": 4222.6,
+            "distanceFromParent": 265685818.4,
+            "orbitalPeriod": 865,
+            "orbitalVelocity": 47.4,
+            "orbitalInclination": 39.82,
+            "axialTilt": 0.01,
+            "orbitPositionOffset": 267.84,
+            "meanTemperature": 167,
+            "surfaceTemps": {
+                "min": 100,
+                "mean": 340,
+                "max": 700
+            },
+            "rings": false,
+            "satellites": [],
+            "_3d": {
+                "textures": {
+                    "base": "/src/assets/textures/mercury.jpg",
+                    "topo": "/src/assets/textures/mercury_topo.jpg"
+                }
+            }
+        },
+        {
+            "id": 18,
+            "name": "Adonis",
+            "diameter": 0.6,
+            "mass": 0.330,
+            "gravity": 3.7,
+            "density": 5427,
+            "rotationPeriod": 1407.6,
+            "lengthOfDay": 4222.6,
+            "distanceFromParent": 280346409.7,
+            "orbitalPeriod": 937,
+            "orbitalVelocity": 47.4,
+            "orbitalInclination": 1.32,
+            "axialTilt": 0.01,
+            "orbitPositionOffset": 43.69,
+            "meanTemperature": 167,
+            "surfaceTemps": {
+                "min": 100,
+                "mean": 340,
+                "max": 700
+            },
+            "rings": false,
+            "satellites": [],
+            "_3d": {
+                "textures": {
+                    "base": "/src/assets/textures/mercury.jpg",
+                    "topo": "/src/assets/textures/mercury_topo.jpg"
+                }
+            }
+        },
+        {
+            "id": 19,
+            "name": "Tantalus",
+            "diameter": 1.649,
+            "mass": 0.330,
+            "gravity": 3.7,
+            "density": 5427,
+            "rotationPeriod": 1407.6,
+            "lengthOfDay": 4222.6,
+            "distanceFromParent": 192981253.2,
+            "orbitalPeriod": 535,
+            "orbitalVelocity": 47.4,
+            "orbitalInclination": 64,
+            "axialTilt": 0.01,
+            "orbitPositionOffset": 61.52,
+            "meanTemperature": 167,
+            "surfaceTemps": {
+                "min": 100,
+                "mean": 340,
+                "max": 700
+            },
+            "rings": false,
+            "satellites": [],
+            "_3d": {
+                "textures": {
+                    "base": "/src/assets/textures/mercury.jpg",
+                    "topo": "/src/assets/textures/mercury_topo.jpg"
+                }
+            }
+        },
+        {
+            "id": 20,
+            "name": "Phaethon",
+            "diameter": 6.25,
+            "mass": 0.330,
+            "gravity": 3.7,
+            "density": 5427,
+            "rotationPeriod": 1407.6,
+            "lengthOfDay": 4222.6,
+            "distanceFromParent": 190138893.7,
+            "orbitalPeriod": 524,
+            "orbitalVelocity": 47.4,
+            "orbitalInclination": 22.31,
+            "axialTilt": 0.01,
+            "orbitPositionOffset": 322.31,
+            "meanTemperature": 167,
+            "surfaceTemps": {
+                "min": 100,
+                "mean": 340,
+                "max": 700
+            },
+            "rings": false,
+            "satellites": [],
+            "_3d": {
+                "textures": {
+                    "base": "/src/assets/textures/mercury.jpg",
+                    "topo": "/src/assets/textures/mercury_topo.jpg"
+                }
+            }
+        },
+        {
+            "id": 21,
+            "name": "Orpheus",
+            "diameter": 6.25,
+            "mass": 0.330,
+            "gravity": 3.7,
+            "density": 5427,
+            "rotationPeriod": 1407.6,
+            "lengthOfDay": 4222.6,
+            "distanceFromParent": 181013423.5,
+            "orbitalPeriod": 486,
+            "orbitalVelocity": 47.4,
+            "orbitalInclination": 2.66,
+            "axialTilt": 0.01,
+            "orbitPositionOffset": 302.34,
+            "meanTemperature": 167,
+            "surfaceTemps": {
+                "min": 100,
+                "mean": 340,
+                "max": 700
+            },
+            "rings": false,
+            "satellites": [],
+            "_3d": {
+                "textures": {
+                    "base": "/src/assets/textures/mercury.jpg",
+                    "topo": "/src/assets/textures/mercury_topo.jpg"
+                }
+            }
+        },
+        {
+            "id": 22,
+            "name": "Anagolay",
+            "diameter": 0.5,
+            "mass": 0.330,
+            "gravity": 3.7,
+            "density": 5427,
+            "rotationPeriod": 1407.6,
+            "lengthOfDay": 4222.6,
+            "distanceFromParent": 274362494.9,
+            "orbitalPeriod": 908,
+            "orbitalVelocity": 47.4,
+            "orbitalInclination": 3.87,
+            "axialTilt": 0.01,
+            "orbitPositionOffset": 17.24,
+            "meanTemperature": 167,
+            "surfaceTemps": {
+                "min": 100,
+                "mean": 340,
+                "max": 700
+            },
+            "rings": false,
+            "satellites": [],
+            "_3d": {
+                "textures": {
+                    "base": "/src/assets/textures/mercury.jpg",
+                    "topo": "/src/assets/textures/mercury_topo.jpg"
+                }
+            }
+        },
+        {
             "id": 1,
             "name": "Mercury",
             "diameter": 4879,
@@ -62,7 +332,7 @@
             "surfaceTemps": {
                 "min": 100,
                 "mean": 340,
-                "mean": 700
+                "max": 700
             },
             "rings": false,
             "satellites": [],
@@ -2656,6 +2926,7 @@
                 }
             }
         }
+        
     ],
     "asteroidBelt": {
         "count": 5000,

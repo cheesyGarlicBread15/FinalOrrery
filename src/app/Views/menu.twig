@@ -1,7 +1,7 @@
 {% spaceless %}
     <ul class="accordion planet-list" data-accordion>
         <div class="menu-title">
-            Planets
+            Celestial Bodies
         </div>
 
         {% for planet in planets %}
@@ -19,20 +19,12 @@
                                 <td>{{ planet.distanceFromParent|number_format(0, ',') }} km</td>
                             </tr>
                             <tr>
-                                <td>Length Of Day</td>
-                                <td>{{ planet.lengthOfDay }} hrs</td>
-                            </tr>
-                            <tr>
                                 <td>Orbital Period</td>
                                 <td>{{ planet.orbitalPeriod }} days</td>
                             </tr>
                             <tr>
                                 <td>Orbit Inclination</td>
                                 <td>{{ planet.orbitalInclination }}&deg;</td>
-                            </tr>
-                            <tr>
-                                <td>Surface Temp</td>
-                                <td>{{ planet.surfaceTemps.mean }} K</td>
                             </tr>
                         </tbody>
                     </table>
